@@ -1,0 +1,6 @@
+$ mount 
+/dev/hda3 on / type ext2 (rw)
+none on /proc type proc (rw)
+/dev/hda1 on /dos type vfat (rw)
+/dev/hda4 on /usr type ext2 (rw)
+none on /dev/pts type devpts (rw,mode=0622)
