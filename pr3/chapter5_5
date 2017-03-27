@@ -1,0 +1,4 @@
+$ mkdir $HOME/TEST
+$ touch $HOME/TEST/{one,two,three}
+$ chmod 777 $HOME/TEST/{one,two,three}
+$ find $HOME -perm -002 -type f -ls

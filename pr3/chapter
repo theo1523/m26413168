@@ -1,0 +1,1 @@
+$ find /tmp/FILES/ -type f -exec cp {} {}.mybackup \;

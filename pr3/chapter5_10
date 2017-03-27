@@ -1,0 +1,2 @@
+$ cd /usr/share/doc/kernel-doc-*
+$ grep -ri --color e1000

@@ -1,0 +1,4 @@
+$ cp /etc/services /tmp
+$ vi /tmp/services
+/WorldWideWeb<Enter>
+cwWorld Wide Web<Esc>

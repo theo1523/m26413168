@@ -1,0 +1,1 @@
+$ find /usr/share/doc -mtime +300

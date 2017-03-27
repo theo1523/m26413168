@@ -1,0 +1,5 @@
+$ vi /tmp/services
+/Note that it is<Enter>
+5dd
+G
+p

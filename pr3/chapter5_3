@@ -1,0 +1,2 @@
+$ vi /tmp/services
+:g/tcp/s//WHATEVER/g<Enter>

@@ -1,0 +1,3 @@
+# yum install kernel-doc
+$ cd /usr/share/doc/kernel-doc*
+$ grep -rli e1000 .

@@ -1,0 +1,3 @@
+$ mkdir /tmp/FILES
+$ find /usr/share -size +5M -size -10M -exec cp {} /tmp/FILES \;
+$ du -sh /tmp/FILES/*
